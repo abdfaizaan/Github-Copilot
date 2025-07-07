@@ -71,9 +71,9 @@ You will be able to complete the following tasks:
 
    ![](../media/ghh0.png)
 
-   >**Note**: If in case pop-up prompt doesn't appear in the browser to open Visual Studio code, manually launch Visual Studio code from the desktop and close it. Next, return to the browser, refresh the page and launch the codespace that was previously created.
+   >**Note**: If in case, a pop-up prompt doesn't appear in the browser to open Visual Studio Code, manually launch Visual Studio Code from the desktop and close it. Next, return to the browser, refresh the page, and launch the codespace that was previously created.
 
-1. You will encounter a pop-up prompt, Click **Open** to proceed. Subsequently, another pop-up window will appear within Visual Studio Code (VS Code), where you should select **Install Extension and Open URI** to continue.
+1. You will encounter a pop-up prompt. Click **Open** to proceed. Subsequently, another pop-up window will appear within Visual Studio Code (VS Code), where you should select **Install Extension and Open URI** to continue.
 
    ![](../media/open.png)
 
@@ -91,11 +91,11 @@ You will be able to complete the following tasks:
 
     ![](../media/loaded-repoa.png)
 
-1. Click on **Open** to open the Visual Studio Code.
+1. Click on **Open** to open Visual Studio Code.
 
     ![](../media/c3.png)
 
-1. Verify your codespace is running. Make sure the VS code looks as shown below:
+1. Verify your codespace is running. Make sure the VS Code looks as shown below:
 
     ![](../media/loaded-repo-01.png)   
 
@@ -105,7 +105,7 @@ You will be able to complete the following tasks:
 
     >**Note**: If the GitHub Copilot extension is not installed, click on Install.
 
-1. At the top next to the search bar, click on the showed icon, to sign in to GitHub.
+1. At the top, next to the search bar, click on the show icon to sign in to GitHub.
 
    ![](../media/signin-to-githubcopilot-0303.png)
 
@@ -135,7 +135,7 @@ You will be able to complete the following tasks:
 
     ![](../media/loaded-repoa.png)
 
-1. Next, once you get the popup, click on **Open**.
+1. Next, once you get the pop-up, click on **Open**.
 
     ![](../media/c6.png)
 
@@ -155,4 +155,4 @@ You will be able to complete the following tasks:
 
 In this exercise, you have created a development container and added Copilot to the list of extensions.
 
-### You have successfully completed the lab. Click on **Next >>** to procced with next exercise.
+### You have successfully completed the lab. Click on **Next >>** to proceed with the next exercise.
