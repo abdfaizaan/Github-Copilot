@@ -15,7 +15,7 @@ Powered by OpenAI Codex and GitHub Copilot's generative, pre-trained language mo
 
 ## Github Copilot for Individuals
 
-GitHub Copilot is an AI-powered coding assistant developed by GitHub, designed to help individual developers by providing intelligent code suggestions, automating repetitive tasks, and enhancing productivity during software development. It leverages machine learning models trained on vast repositories of code to generate code snippets, complete functions, and offer contextual suggestions based on the developer's input and coding patterns. Copilot supports various programming languages and adapts to individual coding styles, making it a valuable tool for accelerating coding tasks, exploring new techniques, and improving code quality.
+GitHub Copilot is an AI-powered coding assistant developed by GitHub, designed to help individual developers by providing intelligent code suggestions, automating repetitive tasks, and enhancing productivity during software development. It leverages machine learning models trained on vast repositories of code to generate code snippets, and complete functions, and offer contextual suggestions based on the developer's input and coding patterns. Copilot supports various programming languages and adapts to individual coding styles, making it a valuable tool for accelerating coding tasks, exploring new techniques, and improving code quality.
 
 Ways in which the data in GitHub Copilot Individual can be used and shared :
 
@@ -54,7 +54,7 @@ Enterprise owners can allow some or all organizations in the enterprise to acces
 - **GitHub Copilot Chat in GitHub.com**: GitHub Copilot Chat in GitHub.com is a chat interface that lets you ask and receive answers to coding-related questions within GitHub.com.
 - **Copilot pull request summaries**: Copilot pull request summaries is an AI-powered feature that allows you to create a summary of the changes that were made in a pull request, which files they impact, and what a reviewer should focus on when they conduct their review.
 
-### Understanding the differences between Copilot for Individuals, Business and Enterprise
+### Understanding the differences between Copilot for Individuals, Business, and Enterprise
 
 
 |                                                            | GitHub Copilot for Individuals |GitHub Copilot for Business | GitHub Copilot Enterprise |
@@ -92,9 +92,13 @@ Access to Copilot is determined at the enterprise and organization levels:
 - Enterprise owners can allow some or all of the organizations in the enterprise to access Copilot.
 - Owners of organizations that have been granted access to Copilot can assign GitHub Copilot Enterprise seats to some or all members of their organization. 
 
-When access to Copilot has been enabled, features such as the ability to use Copilot on GitHub.com, can be configured. Features are enabled or disabled at the enterprise or organization level:
+When access to Copilot has been enabled, features such as the ability to use Copilot on GitHub.com can be configured. Features are enabled or disabled at the enterprise or organization level:
 
-- Enterprise owners can set Copilot features to be enabled or disabled for all organizations in the enterprise that have access to Copilot. Alternatively, they can allow each organization to set its own policy for each feature.
+- Enterprise owners can set Copilot features to be enabled or disabled for all organizations in the enterprise that have access to Copilot. Alternatively, they can allow each organization to set its policy for each feature.
 - If the enterprise owner has permitted it, organization owners can enable or disable Copilot features for their organization.
+
+### Summary
+
+We learned about GitHub Copilot, an AI-powered coding assistant that integrates with IDEs to provide real-time code suggestions, explanations, and refactoring support. We explored its Individual, Business, and Enterprise plans, understanding their features, security enhancements, and management options to improve developer productivity and streamline coding workflows across organizations.
 
 Click on **Next** from the bottom right to start with the lab.
