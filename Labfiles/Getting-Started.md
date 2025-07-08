@@ -60,7 +60,7 @@ Una vez que esté listo para comenzar, su máquina virtual y la guía de laborat
 
 1. Una vez que esté en la pestaña **Ambiente (1)**, desplácese hacia abajo y encontrará el **Nombre de usuario de Github y la Contraseña de Github (2)**
  
-   ![](../media/190625(02).png)
+   ![](../media/env-spanish.png)
 
 
 ## Utilizando la función de ventana dividida
@@ -98,11 +98,11 @@ Para ajustar el nivel de zoom en la página del entorno, haga clic en el ícono 
 
 - Haga clic en **Sign in with your identity provider** **(2)** para continuar.
 
-   ![](../media/github-logina.png)
+   ![](../media/github-signin-0707.png)
           
 1. Haga clic en **Continue** en la página **Single sign-on to CloudLabs Organizations** para continuar.
 
-   ![](../media/github-loginb.png)
+   ![](../media/github-signin2-0707.png)
 
 1. Verá la pestaña **Sign in** Aquí, ingrese sus credenciales de Azure Entra:
 
@@ -158,7 +158,7 @@ Para ajustar el nivel de zoom en la página del entorno, haga clic en el ícono 
 
 1. Una vez creado el nuevo repositorio, espere unos 20 segundos y luego actualice la página; será redirigido a la página principal del repositorio **skills-copilot-codespaces-vscode-<inject key="Deployment-id" enableCopy="false"/>**.
 
-   ![](../media/190625(06).png)
+   ![](../media/gh-homepage-spanish-0807.png)
 
 1. Una vez que se haya creado el repositorio, haga clic en su foto de perfil y luego seleccione **Your organizations**.
 
