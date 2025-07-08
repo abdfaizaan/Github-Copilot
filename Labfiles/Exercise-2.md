@@ -64,7 +64,11 @@ In this lab, you will complete the following tasks:
 
    ![](../media/openterminal.png)     
    
-1. Run the application with the `node skills.js` command in the terminal and verify that the output has been generated.
+1. Run the application with the command mentioned below in the terminal and verify that the output has been generated.
+
+   ```
+   node skills.js
+   ```
 
    ![](../media/E2T1S9-0807.png)
 
