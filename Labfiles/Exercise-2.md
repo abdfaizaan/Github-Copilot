@@ -22,15 +22,15 @@ In this lab, you will complete the following tasks:
  
 1. From the VS Code Explorer window, create a New File.
 
-   ![](../media/create-newfile-01.png)
+   ![](../media/E2T1S2-0807.png)
 
 1. Name the file `skills.js` and verify your new file looks as shown below:
    
    > **Note:** Create the `skill.js` file outside the `.devcontainer` folder.
 
-      ![](../media/name-skills-01.png)
+      ![](../media/E2T1S3-0807.png)
 
-1. In the `skills.js` file, type the below function header and press `Enter` to see the code suggestions.
+1. In the `skills.js` file, type the following function header and press `Enter` to see the code suggestions.
 
    ```
    // function to covert Celsius
@@ -45,7 +45,7 @@ In this lab, you will complete the following tasks:
 
    ![](../media/py61.png)
 
-   > **Note**: You might need to press tab again to see the suggestions and accept it.
+   > **Note**: You might need to press the tab again to see the suggestions and accept them.
   
 1. In the next line, type the following:
 
@@ -54,7 +54,7 @@ In this lab, you will complete the following tasks:
    ```
    ![](../media/py62.png)
 
-1. Press  `Enter` and `Tab` to accept the suggestion  and then press `Ctrl + S` to save the file.
+1. Press  `Enter` and `Tab` to accept the suggestion, and then press `Ctrl + S` to save the file.
 
       ![](../media/py63.png)
 
@@ -64,9 +64,9 @@ In this lab, you will complete the following tasks:
 
    ![](../media/openterminal.png)     
    
-1. Run the application with the `node skills.js` command in the terminal and verify the output has been generated.
+1. Run the application with the `node skills.js` command in the terminal and verify that the output has been generated.
 
-   ![](../media/py28.png)
+   ![](../media/E2T1S9-0807.png)
 
     >**Note**: You can also try the same commands to convert from Fahrenheit to Celsius as shown below:
 
