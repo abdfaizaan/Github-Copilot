@@ -4,7 +4,7 @@
 
 In this exercise, the primary objective is to leverage the capabilities of GitHub Copilot, a powerful AI-assisted coding tool, to assist you in generating code for two distinct programming languages: T-SQL and YAML. You can leverage comments to generate Copilot suggestions!
 
->**Disclaimer**: GitHub Copilot will automatically suggest an entire function body or code in grayed text. Examples of what you'll most likely see in this exercise, but the exact suggestion may vary.
+>**Disclaimer**: GitHub Copilot will automatically suggest an entire function body or code in gray text. Examples of what you'll most likely see in this exercise, but the exact suggestion may vary.
 
 >**Note**: If you are unable to see any suggestions by GitHub Copilot in VS Code, please restart the VS Code once and try again. 
 
@@ -17,13 +17,13 @@ You will be able to complete the following tasks:
 
 ### Task 1: Generate a SQL query with GitHub Copilot using comments
 
-1. Navigate back to the **codespace window** in the Visual Studio Code and from inside the codespace in the VS Code explorer window, create a **new file**.
+1. Navigate back to the **codespace window** in the Visual Studio Code and from inside the codespace in the VS Code Explorer window, create a **new file**.
 
     >**Note:** Previous exercise you have done in a new window, so switch back to the codespace window.
 
      ![](../media/chat-code-new.png)
 
-1. Name the file `demo.sql` and type the below comment and press **Enter**.
+1. Name the file `demo.sql`, type the below comment and press **Enter**.
 
    ```
    -- create a table with 5 coloumns customer_id, customer_fname, customer_lname, customer_phone, customer_address
@@ -31,7 +31,7 @@ You will be able to complete the following tasks:
 
     ![](../media/c34.png)   
    
-1. Notice how the Copilot is able to generate the next lines of code.
+1. Notice how the Copilot can generate the next lines of code.
 
 1. Click on `Tab` and press **Enter**.
 
@@ -78,13 +78,13 @@ You will be able to complete the following tasks:
    - **Encryption:** Check the box for **Trust server certificate (3)**
    - Click **Connect (4)**
 
-   ![](../media/Connect.png)
+   ![](../media/E8T1S13-0807.png)
      
 1. Once you are connected to the server, click on **New Query** on the top.
 
    ![](../media/hub110.png)
 
-1. Navigate to the **Visual Studio Code** and copy all the content we have feteched in `demo.sql`.
+1. Navigate to the **Visual Studio Code** and copy all the content we have fetched in `demo.sql`.
 
 1. Paste it in the new query page.
 
@@ -106,16 +106,16 @@ You will be able to complete the following tasks:
 
     ![](../media/chat-code-new.png)
 
-1. Press `Ctrl + I` , type the below comment and hit send:
+1. Press `Ctrl + I`, type the below comment, and hit send:
 
    ```
    # Create a GitHub action to email a report from a file at 6 a.m. daily
    ```
-   ![](../media/hub9.png)
+   ![](../media/E8T2S2-0807.png)
 
 1. Click on **Accept**.
 
-   ![](../media/hub8.png)
+   ![](../media/E8T2S3-0807.png)
 
       > **Note**: You may not see the same suggestions as shown in the screenshot; exact suggestions may vary.
 
@@ -125,7 +125,7 @@ You will be able to complete the following tasks:
    
 1. Review the response and understand the uses of cron syntax.
 
-      ![](../media/hub11.png)
+      ![](../media/E8T2S5-0807.png)
 
 1. Offer another query: `How should a GitHub Actions YAML file be structured?` and evaluate the provided response.
 
@@ -135,4 +135,4 @@ You will be able to complete the following tasks:
 
 In this exercise, you have successfully generated code for SQL and YAML using comments with the help of GitHub Copilot.
 
-## You have successfully completed the lab. Click on **Next >>** to procced with next exercise.
+## You have successfully completed the lab. Click on **Next >>** to proceed with the next exercise.
