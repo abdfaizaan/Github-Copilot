@@ -114,7 +114,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Escriba el prompt debajo del código pegado, `#selection How can we refactor this code to adhere to coding best practices?` y a continuación presione **Enter**. GitHub Copilot Chat dará la respuesta que se muestra a continuación.
 
-   ![](../media/hub7.png)
+   ![](../media/E5T2S3-0807.png)
 
 1. Pegue el código refactorizado en el archivo.
 
@@ -175,6 +175,8 @@ Será capaz de completar las siguientes tareas:
     }
     }     
     ```
+
+    > **Nota:** La salida del chat de Copilot puede diferir en su entorno, ya que cada vez el chat puede dar diferentes salidas.
 
 1. Ahora, analicemos los cambios realizados al código por GitHub Copilot Chat:
     - Se cambió el nombre del método Sum a CalculateSum para describir mejor su funcionalidad.
@@ -259,7 +261,7 @@ En esta tarea, demostrará la función de chat con código de GitHub Copilot. Co
     ```
     In this scenario, is it more appropriate to use a switch statement or if-else statements?
     ```
-   ![](../media/hub6.png)
+   ![](../media/E5T4S2-0807.png)
 
 1. Como la declaración switch es más legible y más fácil de mantener cuando se trata de múltiples opciones discretas, copiemos y peguemos el código en el archivo y hagamos clic en `Ctrl+S`.
 
@@ -279,7 +281,7 @@ En esta tarea, demostrará la función de chat con código de GitHub Copilot. Co
 
 1. GitHub Copilot Chat generará el código como se muestra a continuación.
 
-   ![](../media/coderefactor.png)
+   ![](../media/E5T5S4-0807.png)
 
 1. Copie y pegue el código en el archivo llamado **test.js** que acaba de crear.
 
@@ -289,7 +291,7 @@ En esta tarea, demostrará la función de chat con código de GitHub Copilot. Co
 
 1. Se generarán los casos de prueba para todas las funciones en un **nuevo archivo (1)**. Proceda a **conservar (2)** los casos de prueba generados.
 
-   ![](../media/ghc2.png)
+   ![](../media/E5T5S7-0807.png)
 
 ## Resumen
 
