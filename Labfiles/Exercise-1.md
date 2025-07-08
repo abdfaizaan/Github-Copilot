@@ -58,6 +58,8 @@ You will be able to complete the following tasks:
    ```
 
    ![](../media/Exercise1-task1-2.png)
+
+   > **Note:** This JSON code configures a Codespace environment to include GitHub Copilot and Terraform extensions. It also installs the Terraform CLI and Azure CLI tools for seamless infrastructure automation.
    
 1. Click the **Commit changes** button.
 
@@ -75,21 +77,21 @@ You will be able to complete the following tasks:
 
 1. You will encounter a pop-up prompt. Click **Open** to proceed. Subsequently, another pop-up window will appear within Visual Studio Code (VS Code), where you should select **Install Extension and Open URI** to continue.
 
-   ![](../media/open.png)
+   ![](../media/E1T1S8-0807.png)
 
-   ![](../media/innovation-1.png)
+   ![](../media/E1T1S8.1-0807.png)
 
     >**Note**: Click on **Allow** if the extension **Github Codepsaces** wants to sign in using Github.
 
-   ![](../media/inn-2.png)
+   ![](../media/E1T1S8.2-0807.png)
 
 1. Click on **Continue** on **Select user to authorize Visual Studio Code**.
 
-    ![](../media/ghssologing.png)
+    ![](../media/auth-git1-0807.png)
 
 1. Click on **Authorize Visual-Studio-Code**.
 
-    ![](../media/loaded-repoa.png)
+    ![](../media/auth-git2-0807.png)
 
 1. Click on **Open** to open Visual Studio Code.
 
@@ -109,13 +111,9 @@ You will be able to complete the following tasks:
 
    ![](../media/signin-to-githubcopilot-0303.png)
 
-1. On the pop-up window that appears, click on **Sign in**.
+1. On the pop-up window that appears, click on **Continue with GitHub**.
 
-   ![](../media/sign-in-copilot-01.png)
-
-   >**Note**: If you see the **Sign in to use Copilot** prompt, click on **Continue with github**
-
-      ![](../media/continue-github.png)
+   ![](../media/GH-copilot-signin1-0807.png)
 
    > **Note**: If you encounter with error **No access to GitHub Copilot found**, please reach out to `cloudlabs-support@spektrasystems.com` for further assistance.
 
@@ -129,11 +127,11 @@ You will be able to complete the following tasks:
 
 1. Click **Continue**, once the  **Select user to authorize Visual Studio Code** tab appears in the browser.
 
-    ![](../media/c5.png)
+    ![](../media/auth-git1-0807.png)
 
 1. Click on **Authorize Visual-Studio-Code**.
 
-    ![](../media/loaded-repoa.png)
+    ![](../media/auth-git2-0807.png)
 
 1. Next, once you get the pop-up, click on **Open**.
 
