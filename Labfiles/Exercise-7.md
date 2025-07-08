@@ -21,7 +21,7 @@ In this exercise, you will use Accessibility Insights for Web to identify access
 You will be able to complete the following tasks:
 
 - Task 1: Set Up Accessibility Insights for Web extension in Microsoft Edge
-- Task 2: Verify the GitHub Copilot Chat extension and Clone Accessible University GitHub Repo in VS Code
+- Task 2: Verify the GitHub Copilot Chat extension and Clone the Accessible University GitHub Repo in VS Code
 
 ## Task 1: Set Up Accessibility Insights for Web extension in Microsoft Edge
 
@@ -55,7 +55,7 @@ You will be able to complete the following tasks:
 
    ![](../media/aut16.png)
 
-## Task 2: Verify the GitHub Copilot Chat extension and Clone Accessible University GitHub Repo in VS Code
+## Task 2: Verify the GitHub Copilot Chat extension and Clone the Accessible University GitHub Repo in VS Code
 
 1. Start **Visual Studio Code** from the desktop.
 
@@ -77,9 +77,9 @@ You will be able to complete the following tasks:
 
 1. Once the installation is complete, in the top right next to the search bar, you will be able to see the icon for GitHub Copilot Chat, as shown below.
 
-   ![](../media/chaticon.png)
+   ![](../media/E7T2S4-0807.png)
 
-1. Skip to step 8. If you have already signed in to a GitHub Account in VS Code. If not, then follow steps 5 to 7.
+1. Skip to step 9. If you have already signed in to a GitHub Account in VS Code. If not, then follow steps 5 to 7.
 
 1. Select the **Account** icon from bottom and click on **Sign in with GitHub**.
 
@@ -89,7 +89,7 @@ You will be able to complete the following tasks:
 
     ![Picture1](../media/clonerepo4.png)
 
-1. If you get the pop-up, the site is trying to open the Visual Studio Code, then click on **Open**. It will navigate back to the **Visual Studio**.
+1. If you get the pop-up, the site is trying to open Visual Studio Code, then click on **Open**. It will navigate back to the **Visual Studio**.
 
     ![Picture1](../media/clonerepo5.png)
 
@@ -99,7 +99,7 @@ You will be able to complete the following tasks:
 
 1. Open Command Prompt from the Windows search bar and navigate to the path `C:\Users\Azureuser`
 
-    ![](../media/cmd-1.png)
+    ![](../media/E7T2S10-0807.png)
     
 1. Run the following command given below to clone the Accessible University GitHub repo.
 
@@ -107,7 +107,7 @@ You will be able to complete the following tasks:
    git clone https://github.com/CloudLabsAI-Azure/AU.git
     ```
 
-    ![Picture1](../media/github-00.png)
+    ![Picture1](../media/E7T2S11-0807.png)
 
 1. Back on visual studio code switch to the **Explorer** in the upper left corner, select **Open Folder**.
    
@@ -123,19 +123,19 @@ You will be able to complete the following tasks:
 
 1. Once the folder is opened, select the `before.html` file.
 
-   ![](../media/c29.png)
+   ![](../media/E7T2S15-0807.png)
 
 1. Navigate to **File Explorer** and in search bar, type `C:\Users\azureuser\AU` then press **Enter**.
 
    ![](../media/c28.png)
 
-1. It will  open the folder you have cloned. From there, double-click on the `before` html file. It will open in your web browser, where you have already added **Accessibility Insights for Web** extension.
+1. It will  open the folder you have cloned. From there, double-click on the `before` HTML file. It will open in your web browser, where you have already added the **Accessibility Insights for Web** extension.
 
    ![](../media/c32.png)
 
    ![](../media/before1.png)
 
-1. Now click on the **Extensions (1)** button from the browser toolbar, select **Accessibility Insights for Web (2)**, click on **OK** and then click on **FastPass (3)**. It will open in a new window pop-up.
+1. Now click on the **Extensions (1)** button from the browser toolbar, select **Accessibility Insights for Web (2)**, click on **OK** and then click on **FastPass (3)**. It will open in a pop-up window.
 
    - **FastPass**: [FastPass](https://accessibilityinsights.io/docs/web/getstarted/fastpass/) is a lightweight, two-step process that helps developers identify common, high-impact accessibility issues in less than five minutes.
 
@@ -155,7 +155,7 @@ You will be able to complete the following tasks:
 
    ![](../media/allissue.png)
 
-1. Navigate back to Visual Studio Code, Open the **before-menu.css (2)** file which is located in the **styles (1)** folder.
+1. Navigate back to Visual Studio Code, open the **before-menu.css (2)** file, which is located in the **styles (1)** folder.
 
    ![](../media/styles1.png)
 
@@ -167,7 +167,7 @@ You will be able to complete the following tasks:
 
    ![](../media/colourcontrast0.png)
 
-1. Review the suggestion from GitHub Copilot, which was generated based on the context provided, ensure that it meets your requirements and Click on the **Accept** option.
+1. Review the suggestion from GitHub Copilot, which was generated based on the context provided, ensure that it meets your requirements, and click on the **Accept** option.
 
    ![](../media/colourcontrast1.png)
 
@@ -229,7 +229,7 @@ You will be able to complete the following tasks:
 
 1. Navigate back to your VS Code, Open `before.html` file.
 
-1. In the **before.html** file, select the given code, press **Ctrl + I** to open the GitHub Copilot chat, enter the given prompt, and press Enter.
+1. In the **before.html** file, select the given code from line 79 to line 96, press **Ctrl + I** to open the GitHub Copilot chat, enter the given prompt, and press Enter.
 
    ```
    Fix the accessibility issue
@@ -237,7 +237,7 @@ You will be able to complete the following tasks:
 
    ![](../media/accessibility1.png)
 
-1. Review the suggestion from GitHub Copilot, which was generated based on the context provided, ensure that it meets your requirements and Click on the **Accept** option.
+1. Review the suggestion from GitHub Copilot, which was generated based on the context provided, ensure that it meets your requirements, and click on the **Accept** option.
 
    ![](../media/accessibilityaccept.png)
 
@@ -253,11 +253,11 @@ You will be able to complete the following tasks:
 
    ![](../media/reduction1.png)
 
-1. Now, expand the **label** to check the error message in details.
+1. Now, expand the **label** to check the error message in detail.
 
 1. Navigate back to your VS Code, Open `before.html` file.
 
-1. In the **before.html** file, Select the given code and press **Ctrl + I** to access the GitHub Copilot chat. Provide the given prompt and press enter.
+1. In the **before.html** file, select the given code from line 199 to line 212 and press **Ctrl + I** to access the GitHub Copilot chat. Provide the given prompt and press Enter.
 
    ```
    Add a label to the selected code
@@ -265,7 +265,7 @@ You will be able to complete the following tasks:
 
    ![](../media/labelaccept.png)
 
-1. Review the suggestion from GitHub Copilot, which was generated based on the context provided, ensure that it meets your requirements and Click on the **Accept** option.
+1. Review the suggestion from GitHub Copilot, which was generated based on the context provided, ensure that it meets your requirements, and click on the **Accept** option.
 
    ![](../media/labelaccept1.png) 
 
@@ -275,7 +275,7 @@ You will be able to complete the following tasks:
 
 1. **Save** the file by **Ctrl + S**.
 
-1. Refresh your **Accessible University** page. Click on the **Start over** button from  **Accessibility Insights for Web** page. You will now see a reduction in the error message.
+1. Refresh your **Accessible University** page. Click on the **Start over** button from the  **Accessibility Insights for Web** page. You will now see a reduction in the error message.
 
 1. Expand the **link-in-text-block** to view the error details.
 
@@ -283,7 +283,7 @@ You will be able to complete the following tasks:
 
 1. Navigate back to your VS Code.
 
-1. In the **before.html** file, Select the given code and press **Ctrl + I** to access the GitHub Copilot chat. Provide the given prompt and press enter.
+1. In the **before.html** file, select the given code from line 125 to line 129, and press **Ctrl + I** to access the GitHub Copilot chat. Provide the given prompt and press Enter.
 
    ```
    Fix for all: one of the following issues: improve link color contrast to at least 3:1 or add styling (e.g., underline) to distinguish it from surrounding text.
@@ -309,4 +309,4 @@ You will be able to complete the following tasks:
 
 In this exercise, you successfully integrated Accessibility Insights for Web into Microsoft Edge and used it to identify accessibility issues on the AU homepage. By leveraging GitHub Copilot Chat in Visual Studio Code, you generated and implemented code solutions to fix these issues. This process ensured the website met accessibility standards, enhancing usability and inclusivity for all users, including those with disabilities. Refer to the link for more information about [Accessible University](https://www.washington.edu/accesscomputing/AU/).
 
-## You have successfully completed the lab. Click on **Next >>** to procced with next exercise.
+## You have successfully completed the lab. Click on **Next >>** to proceed with the next exercise.
