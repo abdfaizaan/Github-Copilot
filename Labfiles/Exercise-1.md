@@ -24,12 +24,12 @@ Será capaz de completar las siguientes tareas:
 
 1. Para navegar de regreso a la página de inicio de tu repositorio desde la configuración de la organización, haga clic en **Repositories** en el panel izquierdo y seleccione el repositorio privado **skills-copilot-codespaces-vscode-<inject key="Deployment-id" enableCopy="false"/>**.
 
-   ![](../media/190625(27).png)
+   ![](../media/open-repo-spanish-0807.png)
 
 
 2. En la página de inicio de su repositorio, haga clic en **creating a new file** en la sección **Quick setup**.
 
-   ![](../media/190625(09).png)
+   ![](../media/gh-homepage-spanish-0807.png)
 
 2. Escriba o pegue lo siguiente en el campo de texto vacío para nombrar su archivo **(1)**.
 
@@ -90,7 +90,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Haga clic en **Authorize Visual-Studio-Code**
 
-    ![](../media/loaded-repoa.png)  
+    ![](../media/auth-git2-0807.png)  
 
 1. Haga clic en **Open** para abrir Visual Studio Code.
 
@@ -112,11 +112,7 @@ Será capaz de completar las siguientes tareas:
 
 1. En la ventana emergente que aparece, en la página **Iniciar sesión para usar Copilot gratis**, haga clic en **Iniciar sesión**
 
-   ![](../media/190625(24).png)
-
-   >**Nota**: Si aparece la ventana emergente **Sign in to use Copilot**, haga clic en **Continue with github**
-
-      ![](../media/continue-github.png)
+   ![](../media/GH-copilot-signin1-0807.png)
 
    > **Nota**: Si aparece el error **No access to GitHub Copilot found**, comuníquese con `cloudlabs-support@spektrasystems.com` para obtener más ayuda.
 
@@ -134,7 +130,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Haga clic en **Authorize Visual-Studio-Code**
 
-    ![](../media/loaded-repoa.png)  
+    ![](../media/auth-git2-0807.png)  
 
 11. A continuación, cuando aparezca la ventana emergente, haga clic en **Open**
 
