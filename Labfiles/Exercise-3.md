@@ -40,7 +40,11 @@ Será capaz de completar las siguientes tareas:
 
    ![](../media/190625(14).png)
 
-6. Ejecute la aplicación con el comando **python app.py** en la terminal y verifique que se haya generado la salida.
+6. Ejecute la aplicación con el comando mencionado a continuación en el terminal y verifique que se haya generado la salida.
+
+   ```
+   python app.py
+   ```
 
    ![](../media/image.png)   
 
@@ -95,9 +99,9 @@ Al aprovechar el código generado anteriormente, explorará herramientas especí
 
       ![](../media/py7.png)
 
-   >**Nota: En caso de que no vea la opción Aceptar, haga clic en editar código como se muestra a continuación en la captura de pantalla.**
+      >**Nota: En caso de que no vea la opción Aceptar, haga clic en editar código como se muestra a continuación en la captura de pantalla.**
 
-![](../media/fix-code.png)
+      ![](../media/fix-code.png)
 
 11. Seleccione el código nuevamente y haga clic derecho en el código seleccionado, elija **Copilot (1)** y seleccione **Generate documentation (2)**.
 
