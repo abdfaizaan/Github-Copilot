@@ -64,7 +64,11 @@ Será capaz de completar las siguientes tareas:
 
    ![](../media/190625(14).png)  
    
-1. Ejecute la aplicación con el comando `node skills.js` en la terminal y verifique que se haya generado la salida.
+1. Ejecuta la aplicación con el comando mencionado a continuación en la terminal y verifica que se haya generado la salida.
+
+   ```
+   node skills.js
+   ```
 
    ![](../media/py28.png)
 
