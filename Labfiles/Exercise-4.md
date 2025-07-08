@@ -4,7 +4,7 @@
 
 ### About GitHub Copilot Chat and Visual Studio Code
 
-GitHub Copilot Chat allows you to ask coding questions and receive answers directly within the supported IDE. Copilot Chat can help you with a variety of coding-related tasks, like offering you code suggestions, providing natural language descriptions of a piece of code's functionality and purpose, generating unit tests for your code, and proposing fixes for bugs in your code. For more information, see "[About GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)."
+GitHub Copilot Chat allows you to ask coding questions and receive answers directly within the supported IDE. Copilot Chat can help you with a variety of coding-related tasks, like offering code suggestions, providing natural language descriptions of a piece of code's functionality and purpose, generating unit tests for your code, and proposing fixes for bugs in your code. For more information, see "[About GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)."
 
 ### Use cases for GitHub Copilot Chat
 
@@ -33,15 +33,15 @@ In this lab, you will complete the following tasks:
 
 1. In the Visual Studio Code activity bar, click the **GitHub Copilot Chat** icon **(1)** on the top right. Click on **Open Chat (2)** to open the GitHub Copilot Chat window.
 
-    ![](../media/new-githubcopilot-feb-10.png)
+    ![](../media/E4T1S1-0807.png)
 
 1. At the bottom of the GitHub Copilot Chat window, in the **Ask Copilot a question or type / for topics** text box, type a coding-related question, then press Enter. For example, type `Write an ARM code for deploying a storage account with Standard_LRS SKU to Azure with the code explanation.`
 
-    ![](../media/hub63.png)
+    ![](../media/L4T1S2-0807.png)
 
 1. GitHub Copilot Chat will process your question and provide an answer, with code suggestions when appropriate, in the chat window. 
 
-    ![](../media/hub62.png)
+    ![](../media/E4T1S3-0807.png)
 
     > **Note:** Here's an example of what you are likely to see; however, the precise recommendation could vary.
 
@@ -49,11 +49,9 @@ In this lab, you will complete the following tasks:
 
     > **Note**:  If your question is outside the scope of GitHub Copilot Chat, it will tell you and may suggest an alternative question to ask.
    
-1. You can view the response from GitHub Copilot in the chat. To insert code into a new file, click on **Ellipsis (...)** and select **Insert Into New File**.
+1. You can view the response from GitHub Copilot in the chat. To insert code into a new file, click on **Ellipsis (...) (1)** and select **Insert Into New File (2)**.
 
-   ![](../media/hub67.png)
-
-   ![](../media/hub61.png)
+   ![](../media/E4T1S4-0807.png)
    
 1. Press `CTRL + S` to save the file. Name the file `arm.json` and click on **OK**
 
@@ -85,7 +83,7 @@ In this lab, you will complete the following tasks:
 
       ![](../media/github3.png)
 
-1. Copy and **paste(1)** the code you had earlier saved in VS code in the **Edit template** section and click on **Save(2)**.
+1. Copy and **paste(1)** the code you had earlier saved in VS code from **arm.json** file, in the **Edit template** section and click on **Save(2)**.
 
       ![](../media/github5.png)
 
@@ -100,7 +98,7 @@ In this lab, you will complete the following tasks:
 
      ![](../media/custom-template-0303-1.png)
 
-        > **Note:** In case, the storage account name is already fetched, use the default.
+        > **Note:** In case the storage account name is already fetched, use the default.
 
 1. Click on **Create**.      
       
@@ -120,7 +118,7 @@ In this lab, you will complete the following tasks:
 
 1. GitHub Copilot Chat will process your question and provide an answer, with code suggestions when appropriate, in the chat window.
 
-    ![](../media/terraform-code-0303.png)
+    ![](../media/E4T2S3-0807.png)
 
     > **Note:** Here's an example of what you are likely to see; however, the precise recommendation could vary.
     
@@ -130,7 +128,7 @@ In this lab, you will complete the following tasks:
    
 1. You can view the response from GitHub Copilot in the chat. To insert code into a new file, click on **Ellipsis (...)** **(1)** and select **Insert Into New File** **(2)**.
 
-   ![](../media/terraform-code2-0303.png)
+   ![](../media/E4T2S4-0807.png)
 
 1. Press `CTRL + S` to save the file. Name the file `terraform.tf` and click on **OK**
    
@@ -144,7 +142,7 @@ In this lab, you will complete the following tasks:
 
 1. GitHub Copilot Chat will process your question and provide an answer, with code suggestions when appropriate, in the chat window. 
 
-      ![](../media/psscript1-0303.png)
+      ![](../media/E4T3S3-0807.png)
 
       > **Note:** Here's an example of what you are likely to see; however, the precise recommendation could vary.
 
@@ -154,7 +152,7 @@ In this lab, you will complete the following tasks:
    
 1. You can view the response from GitHub Copilot in the chat. To insert code into a new file, click on **Ellipsis (...)** and select **Insert Into New File**.
 
-      ![](../media/psscript2-0303.png)
+      ![](../media/E4T3S4-0807.png)
 
 1. Press `CTRL + S` to save the file, and you will see a recommendation to install the `PowerShell` extension. Click on Install. Name the file `powershell.ps1` and click on **OK**.
 
@@ -164,4 +162,4 @@ In this lab, you will complete the following tasks:
 
 In this lab, you have employed Copilot to automatically generate code in both ARM, Terraform, and PowerShell programming languages.
 
-## You have successfully completed the lab. Click on **Next >>** to procced with next exercise.
+## You have successfully completed the lab. Click on **Next >>** to proceed with the next exercise.
