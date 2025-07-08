@@ -69,9 +69,9 @@ You will be able to complete the following tasks:
 
 ## Task 2: Create a basic Java project
 
-1. Click the **icon** as shown in the below image. 
+1. Click the **icon** as shown in the image below. 
 
-   ![](../media/icon.png)
+   ![](../media/E6T2S1-0807.png)
 
 1. Click on **Tools (1)**. Select **GitHub Copilot (2)** from dropdown, then click **Login to GitHub (3)**
 
@@ -83,11 +83,11 @@ You will be able to complete the following tasks:
 
 1. Click on **Continue** on **Device Activation**.   
 
-   ![](../media/c20-01.png)
+   ![](../media/E6T2S4-0807.png)
 
 1. A device activation window will open in your browser. Paste the device **code (1)** which you have copied in the previous step, then click **Continue (2)**.
 
-   ![](../media/c21-01.png)
+   ![](../media/E6T2S5-0807.png)
 
    >**Note:** If you missed to copy the device code, go back to JetBrains IDE and copy the code as shown below:
 
@@ -102,7 +102,7 @@ You will be able to complete the following tasks:
    ![](../media/Exercise-06-ide-allset.png)
 
 
-1. In your JetBrains IDE, right-click on the **src (1)**, select **New (2)** and click on **File (3)** and type **Test.java** in the window **New File** and press **Enter** to create a new Java (*.java) file named.
+1. In your JetBrains IDE, right-click on the **src (1)**, select **New (2)** and click on **File (3)** and type **Test.java** in the window **New File** and press **Enter** to create a new Java (*.java) file.
 
    ![](../media/new-githubcopilot-feb-20.png)
 
@@ -122,7 +122,7 @@ You will be able to complete the following tasks:
 
 1. Press **Tab** to accept the suggestion.
 
-   >**Note:** If you recieve any errors or if you need more suggestions, navigate to the **Github Co-pilot** from the right pane. Refresh if needed. Accept the most relevent solution.
+   >**Note:** If you receive any errors or if you need more suggestions, navigate to the **Github Co-pilot** from the right pane. Refresh if needed. Accept the most relevant solution.
 
     ![](../media/new-githubcopilot-feb-22.png) 
 
