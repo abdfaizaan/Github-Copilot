@@ -6,22 +6,22 @@ IntelliJ IDEA is an Integrated Development Environment (IDE) for Java and Kotlin
 
 GitHub Copilot, an innovative code generation tool, can be integrated with JetBrains IntelliJ, a widely used IDE for Java development. This integration enhances the Java coding experience by providing intelligent code suggestions and auto-completion within IntelliJ, boosting productivity and code quality.
 
-In this exercise, you will use the JetBrains IntelliJ Idea IDE for Java. You will install the GitHub Copilot plugin and create a new project.
+In this exercise, you will use the JetBrains IntelliJ IDEA IDE for Java. You will install the GitHub Copilot plugin and create a new project.
 
 >**Disclaimer**: GitHub Copilot will automatically suggest an entire function body or code in gray text. Examples of what you'll most likely see in this exercise, but the exact suggestion may vary.
 
->**Note**: If you are unable to see any suggestions by GitHub Copilot in VS Code, please restart the VS Code once and try again.
+>**Note**: If you are unable to see any suggestions by GitHub Copilot in VS Code, please restart VS Code once and try again.
 
 ## Lab objectives
 
 You will be able to complete the following tasks:
 
-- Task 1: Install the GitHub Copilot plugin and create a new project in the IntelliJ Idea IDE
+- Task 1: Install the GitHub Copilot plugin and create a new project in the IntelliJ IDEA IDE
 - Task 2: Create a basic Java project
 - Task 3: Getting more suggestions
 - Task 4: Getting code from a comment
 
-## Task 1: Install the GitHub Copilot plugin and create a new project in the IntelliJ Idea IDE
+## Task 1: Install the GitHub Copilot plugin and create a new project in the IntelliJ IDEA IDE
 
 1. Navigate to the desktop and open the **IntelliJ IDEA Community** IDE.
 
@@ -85,11 +85,11 @@ You will be able to complete the following tasks:
 
    ![](../media/E6T2S4-0807.png)
 
-1. A device activation window will open in your browser. Paste the device **code (1)** which you have copied in the previous step, then click **Continue (2)**.
+1. A device activation window will open in your browser. Paste the device **code (1)** that you have copied in the previous step, then click **Continue (2)**.
 
    ![](../media/E6T2S5-0807.png)
 
-   >**Note:** If you missed to copy the device code, go back to JetBrains IDE and copy the code as shown below:
+   >**Note:** If you missed copying the device code, go back to JetBrains IDE and copy the code as shown below:
 
     ![](../media/c21-02.png) 
 
@@ -138,6 +138,6 @@ You will be able to complete the following tasks:
         
 ### Summary
 
-In this exercise, you have successfully configured the JetBrains IntelliJ Idea IDE for Java, installed the GitHub Copilot plugin, and explored the basic Java code that produced the suggestions using Copilot.
+In this exercise, you have successfully configured the JetBrains IntelliJ IDEA IDE for Java, installed the GitHub Copilot plugin, and explored the basic Java code that produced the suggestions using Copilot.
 
 ## You have successfully completed the lab. Click on **Next >>** to proceed with the next exercise.
