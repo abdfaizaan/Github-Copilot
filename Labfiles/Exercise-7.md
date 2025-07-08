@@ -77,7 +77,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Una vez que se complete la instalación, en la parte superior derecha junto a la barra de búsqueda, podrá ver el ícono de GitHub Copilot Chat, como se muestra a continuación.
 
-   ![](../media/chaticon.png)
+   ![](../media/E7T2S4-0807.png)
 
 1. Vaya al paso 8 si ya ha iniciado sesión en una cuenta de GitHub en VS Code. Si no es así, siga los pasos 5 a 7.
 
@@ -98,6 +98,8 @@ Será capaz de completar las siguientes tareas:
    ![Imagen1](../media/close-editor.png)
 
 1. Abra el símbolo del sistema desde la barra de búsqueda de Windows y navegue hasta la ruta `C:\Users\Azureuser`
+
+   ![Imagen1](../media/E7T2S10-0807.png)
     
 1. Ejecute el siguiente comando que se indica a continuación para clonar el repositorio de GitHub de Accessible University.
 
@@ -105,7 +107,7 @@ Será capaz de completar las siguientes tareas:
    git clone https://github.com/CloudLabsAI-Azure/AU.git
     ```
 
-    ![Imagen1](../media/github-00.png)
+    ![Imagen1](../media/E7T2S11-0807.png)
 
 1. De vuelta en Visual Studio Code, cambie al **Explorador** en la esquina superior izquierda, seleccione **Abrir carpeta**.
    
@@ -117,7 +119,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Seleccione **Sí, confío en los autores**.
 
-   ![](../media/clonerepo2.png)
+   ![](../media/trust-repo.png)
 
 1. Una vez que la carpeta esté abierta, seleccione el archivo `before.html`.
 
