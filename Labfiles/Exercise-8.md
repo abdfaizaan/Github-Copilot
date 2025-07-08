@@ -4,9 +4,9 @@
 
 En este ejercicio, el objetivo principal es aprovechar las capacidades de GitHub Copilot, una poderosa herramienta de codificación asistida por IA, para ayudarlo a generar código para dos lenguajes de programación distintos: T-SQL y YAML. ¡Puede aprovechar los comentarios para generar sugerencias de Copilot!
 
->**Descargo de responsabilidad**: GitHub Copilot sugerirá automáticamente todo el cuerpo de una función o código en texto gris. A continuación, se muestran ejemplos de lo que probablemente verá en este ejercicio, pero la sugerencia exacta puede variar.
+   >**Descargo de responsabilidad**: GitHub Copilot sugerirá automáticamente todo el cuerpo de una función o código en texto gris. A continuación, se muestran ejemplos de lo que probablemente verá en este ejercicio, pero la sugerencia exacta puede variar.
 
->**Nota**: Si no puede ver ninguna sugerencia de GitHub Copilot en VS Code, reinicie VS Code una vez e intente nuevamente.
+   >**Nota**: Si no puede ver ninguna sugerencia de GitHub Copilot en VS Code, reinicie VS Code una vez e intente nuevamente.
 
 ## Objetivos del laboratorio
 
@@ -19,9 +19,9 @@ Será capaz de completar las siguientes tareas:
 
 1. Vuelva a Visual Studio Code y, desde el codespace en la ventana Explorador de VS Code, cree un nuevo archivo.
 
->**Nota:** El ejercicio anterior lo realizó en una nueva ventana, así que vuelva a la ventana del codespace.
+   >**Nota:** El ejercicio anterior lo realizó en una nueva ventana, así que vuelva a la ventana del codespace.
 
-![](../media/chat-code-new.png)
+   ![](../media/chat-code-new.png)
 
 1. Nombre el archivo `demo.sql`, escriba el siguiente comentario y presione **Enter**:
 
@@ -78,7 +78,7 @@ Será capaz de completar las siguientes tareas:
    - **Encryption:** Marca la casilla **Trust server certificate (3)**
    - Haga clic en **Connect (4)**
 
-   ![](../media/Connect.png)
+   ![](../media/E8T1S13-0807.png)
      
 1. Una vez que esté conectado al servidor, haga clic en **Nueva consulta** en la parte superior.
 
@@ -111,11 +111,11 @@ Será capaz de completar las siguientes tareas:
    ```
    # Create a GitHub action to email a report from a file at 6 a.m. daily
    ```
-   ![](../media/hub9.png)
+   ![](../media/E8T2S2-0807.png)
 
 1. Haga clic en **Aceptar**.
 
-   ![](../media/hub8.png)
+   ![](../media/E8T2S3-0807.png)
 
       > **Nota**: Es posible que no vea las mismas sugerencias que se muestran en la captura de pantalla; Las sugerencias exactas pueden variar.
 
@@ -125,7 +125,7 @@ Será capaz de completar las siguientes tareas:
    
 1. Revise la respuesta y comprenda los usos de la sintaxis de cron.
 
-      ![](../media/hub11.png)
+      ![](../media/E8T2S5-0807.png)
 
 1. Intente otra consulta: `How should a GitHub Actions YAML file be structured?` y evalúe la respuesta proporcionada.
 
