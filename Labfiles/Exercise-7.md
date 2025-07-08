@@ -119,7 +119,7 @@ You will be able to complete the following tasks:
 
 1. Select **Yes, I trust the authors**.
 
-   ![](../media/clonerepo2.png)
+   ![](../media/trust-repo.png)
 
 1. Once the folder is opened, select the `before.html` file.
 
