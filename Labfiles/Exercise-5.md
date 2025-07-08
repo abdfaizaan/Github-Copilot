@@ -43,7 +43,7 @@ You will be able to complete the following tasks:
 
       > **Note**: If you notice any recommendation to install the C# extension. Click on Install.
 
-1. To demonstrate the GitHub code refactor, let us take an example of a poorly written code and analyze it. The below code is written using the C# programming language. Paste the below code in the file.
+1. To demonstrate the GitHub code refactor, let us take an example of poorly written code and analyze it. The code below is written using the C# programming language. Paste the below code in the file.
     
    ```
    using System;
@@ -113,7 +113,7 @@ You will be able to complete the following tasks:
 
 1. Type the prompt below the pasted code, `#selection How can we refactor this code to adhere to coding best practices?` then press **Enter**. The GitHub Copilot Chat will give the response as shown below.
 
-   ![](../media/hub7.png)
+   ![](../media/E5T2S3-0807.png)
 
 1. Paste the refactored code in the file.
 
@@ -121,7 +121,7 @@ You will be able to complete the following tasks:
 
 ## Task 3: Review the refactored code and understand how it works
 
-1. The newly generated code will look as shown below:
+1. The newly generated code may look similar to the one as shown below:
 
      ```
      using System;
@@ -175,11 +175,13 @@ You will be able to complete the following tasks:
     }     
     ```
 
+    > **Note:** Output of the Copilot chat may differ in your environment, as every time the chat may give different outputs. 
+
 1. Now, let's analyze the changes made to the code by GitHub Copilot Chat
 
     - Changed the method name Sum to CalculateSum to better describe its functionality.
-    - Created a new method GetNumberOfElements to handle the logic for getting the number of elements from the user. This method ensures that the input is within the valid range (1-100) and provides appropriate error messages.
-    - Created another method ReadIntegers to handle the logic for reading integers from the user. This method ensures that each input is a valid integer and provides error messages for invalid inputs.
+    - Created a new method GetNumberOfElements, to handle the logic for getting the number of elements from the user. This method ensures that the input is within the valid range (1-100) and provides appropriate error messages.
+    - Created another method ReadIntegers, to handle the logic for reading integers from the user. This method ensures that each input is a valid integer and provides error messages for invalid inputs.
     - In GetNumberOfElements, used a while loop to repeatedly prompt the user until a valid number is entered.
     - In ReadIntegers, used a while loop inside the for loop to repeatedly prompt the user until a valid integer is entered for each element.
     - Moved the logic for calculating the sum of the array elements into the CalculateSum method.
@@ -254,13 +256,13 @@ In this task, you will demonstrate the chat with code feature of GitHub Copilot.
    }
     ```
 
-1. Let's ask Copilot the below question to understand which conditional statement is a better choice in this circumstance. *Paste the same code in Copilot chat and below the code, paste the below prompt.*
+1. Let's ask Copilot the following question to understand which conditional statement is a better choice in this circumstance. *Paste the same code in Copilot chat, and below the code, paste the following prompt.*
    
     ```
     In this scenario, is it more appropriate to use a switch statement or if-else statements?
     ```
 
-   ![](../media/hub6.png)
+   ![](../media/E5T4S2-0807.png)
 
 1. As the switch statement is more readable and easier to maintain when dealing with multiple discrete choices, let's copy and paste the code in the file and click on `Ctrl+S`.
 
@@ -280,20 +282,20 @@ In this task, you will demonstrate the chat with code feature of GitHub Copilot.
 
 1. The GitHub Copilot Chat will generate the code as shown below.
 
-   ![](../media/coderefactor.png)
+   ![](../media/E5T5S4-0807.png)
 
 1. Copy and paste the code in the file named **test.js** that you just created.
 
-1. Now, to generate test cases for all the functions in the file, navigate to the GitHub Copilot Chat window ensuring the `test.js` file is selected, type **/tests** and hit enter twice.
+1. Now, to generate test cases for all the functions in the file, navigate to the GitHub Copilot Chat window, ensuring the `test.js` file is selected, type **/tests** and hit enter twice.
 
    ![](../media/ghc1.png)
 
 1. It will generate the test cases for all the functions in a **new file (1)**. Proceed to **keep (2)** the generated test cases.
 
-   ![](../media/ghc2.png)
+   ![](../media/E5T5S7-0807.png)
 
 ## Summary
 
 In this exercise, you have successfully employed GitHub Copilot to carry out code refactoring tasks and created unit test functions. Code refactoring with Copilot's assistance will make your coding projects more efficient and collaborative.
 
-## You have successfully completed the lab. Click on **Next >>** to procced with next exercise.
+## You have successfully completed the lab. Click on **Next >>** to proceed with the next exercise.
