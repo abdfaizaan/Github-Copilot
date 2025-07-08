@@ -2,7 +2,7 @@
 
 ### Estimated Duration: 30 minutes
 
-GitHub Copilot accelerates the creation of programming language scripts through AI-driven code generation and intelligent tools. By analyzing context and comments, Copilot swiftly generates foundational code and offers dynamic suggestions for enhancements and optimizations.Beyond code generation, Copilot offers advanced features like autocompletion, code expansion, and suggestions for enhancing existing code or introducing new functionalities. 
+GitHub Copilot accelerates the creation of programming language scripts through AI-driven code generation and intelligent tools. By analyzing context and comments, Copilot swiftly generates foundational code and offers dynamic suggestions for enhancements and optimizations. Beyond code generation, Copilot offers advanced features like autocompletion, code expansion, and suggestions for enhancing existing code or introducing new functionalities. 
 
 > **Disclaimer**: GitHub Copilot will automatically suggest the entire body of a function in gray text. However, the precise recommendation may vary.
 
@@ -19,20 +19,20 @@ In this lab, you will complete the following tasks:
 
 1. From the VS Code Explorer window, create a **New File**.
 
-   ![](../media/py10-1.png)
+   ![](../media/E3T1S1-0807.png)
 
 2. Name the file `app.py` and verify your new file looks as shown below:
    > **Note:** Create the `app.py` file outside the `.devcontainer` folder.
 
-   ![](../media/app1-1.png)
+   ![](../media/E3T1S2-0807.png)
 
 3. Now press `Ctrl + I` to open the GitHub Copilot Chat and paste the following **comments (1)** and click > or press **Enter (2)**. Copilot will give a response, and you can review it and click **Accept (3)**. Also, you can **Discard** the suggestion as depicted in the image below.
    
    ```
-   Create a simple calculator that can add, subtract, multiply or divide depending upon the input from the user.
+   Create a simple calculator that can add, subtract, multiply, or divide depending on the input from the user.
    ```
 
-   ![](../media/hub66-1.png)
+   ![](../media/E3T1S3-0807.png)
 
 4. Press `CTRL + S` to save the file.
 
@@ -40,9 +40,13 @@ In this lab, you will complete the following tasks:
 
    ![](../media/openterminal.png)
 
-6. Run the application with the **python app.py** command in the terminal and verify the output has been generated.
+6. Run the application with the below-mentioned command in the terminal and verify that the output has been generated.
 
-   ![](../media/image.png)   
+   ```
+   python app.py
+   ```
+
+   ![](../media/E3T1S6-0807.png)   
 
       > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
       > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task.
@@ -53,18 +57,18 @@ In this lab, you will complete the following tasks:
 
 ## Task 2: Explore GitHub Copilot Tools
 
-By leveraging the previously generated code, you will explore specific tools provided by Copilot that simplifies major tasks.
+By leveraging the previously generated code, you will explore specific tools provided by Copilot that simplify major tasks.
 
 1. Press `Ctrl + A` to select the entire code from the `app.py` file.
 
 2. Right click on the selected code, select **Copilot (1)** and select **Editor Inline Chat (2)**.
 
-      ![](../media/new-githubcopilot-feb-5.png)
+      ![](../media/E3T2S2-0807.png)
 
 3. The following window prompts you to suggest any improvements or enhancements you would like to make to the code. Paste the following **comments (1)** and click > or press **Enter (2)**. Copilot will give a response, and you can review it and click **Accept (3)**. Also, you can **Discard** the suggestion as depicted in the image below.
 
    ```
-   Include calculation of percentages
+   Include the calculation of percentages
    ```
    
    ![](../media/py4.png)
@@ -81,39 +85,39 @@ By leveraging the previously generated code, you will explore specific tools pro
 
 7. Select the code again and right click on the selected code, select **Copilot (1)** and select **Explain (2)**.
 
-   ![](../media/new-githubcopilot-feb-6.png)
+   ![](../media/E3T2S7-0807.png)
 
-8. It opens the GitHub Copilot Chat on the right, offering a comprehensive explanation of the code as show below.
+8. It opens the GitHub Copilot Chat on the right, offering a comprehensive explanation of the code as shown below.
 
-      ![](../media/hub65.png)
+      ![](../media/E3T2S8-0807.png)
 
 9. Select the code again and right click on the selected code, select **Copilot (1)** and select **Fix (2)**.
 
-   ![](../media/new-githubcopilot-feb-7.png)
+   ![](../media/E3T2S9-0807.png)
 
 10. GitHub Copilot will automatically utilize the `/fix` comment to propose potential improvements to specific parts of code for enhancement. Click on **Accept** to utilize the fixes in your code.
 
       ![](../media/py7.png)
    
-      >**Note: Incase if you do not see the option to Accept , Click on edit code as shown below in the screenshot.**
+      >**Note: In case you do not see the option to Accept, click on edit code as shown below in the screenshot.**
 
-     ![](../media/fix-code.png)
+     ![](../media/E3T2S10.1-0807.png)
 
 11. Select the code again and right click on the selected code, select **Copilot (1)** and select **Generate Docs (2)**.
 
-      ![](../media/new-githubcopilot-feb-8.png)
+      ![](../media/E3T2S11-0807.png)
 
 12. GitHub Copilot will automatically use the `/doc` comment to provide a breakdown of a specific line of code. Click on Accept to gain a deeper understanding while reviewing the code.
 
       ![](../media/py8.png)
 
-      >**Note: Incase if you do not see the option to Accept , Click on edit code as shown below in the screenshot.**
+      >**Note: In case you do not see the option to Accept, click on edit code as shown below in the screenshot.**
 
-      ![](../media/doc-01.png)
+      ![](../media/E3T2S12.1-0807.png)
 
 13. Select the code again and right click on the selected code, select **Copilot (1)** and select **Generate Tests(2)**.
 
-      ![](../media/new-githubcopilot-feb-9.png)
+      ![](../media/E3T2S13-0807.png)
 
 14. GitHub Copilot will automatically use the `/tests` comment. Click on **Accept**.
 
