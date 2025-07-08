@@ -71,7 +71,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Haga clic en el **ícono** como se muestra en la siguiente imagen.
 
-   ![](../media/icon.png)
+   ![](../media/E6T2S1-0807.png)
 
 2. Haga clic en **Tools (1)**. Haga clic en **GitHub Copilot (2)**, y luego en **Login to GitHub**.
 
@@ -84,11 +84,11 @@ Será capaz de completar las siguientes tareas:
 
 4. Haga clic en **Continue** en **Device Activation**.   
 
-   ![](../media/c20.png)
+   ![](../media/E6T2S4-0807.png)
 
 5. Se abrirá una ventana de activación del dispositivo en su navegador. Pegue el **código (1)** del dispositivo que copió en el paso anterior y luego haga clic en **Continue (2)**.
 
-   ![](../media/c21.png)
+   ![](../media/E6T2S5-0807.png)
 
    >**Nota:** Si olvidó copiar el código del dispositivo, regrese a JetBrains IDE y copie el código como se muestra a continuación:
 
