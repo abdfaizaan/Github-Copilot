@@ -14,9 +14,7 @@ En este ejercicio, clonará el repositorio de Git con el dataset requerido en su
 
 >**Descargo de responsabilidad**: GitHub Copilot sugerirá automáticamente todo el cuerpo de una función o código en texto gris. A continuación, se muestran ejemplos de lo que probablemente verá en este ejercicio, pero la sugerencia exacta puede variar.
 
->**Nota**: Antes de continuar con el ejercicio, asegúrese de haber instalado los paquetes Python y pip.
-
->**Nota**: Si no puede ver ninguna sugerencia de GitHub Copilot en VS Code, reinicie VS Code una vez e intente nuevamente.
+>**Nota**: En caso de que recibas fallos al ejecutar alguna celda, puedes seleccionar la parte del error en la celda y hacer clic en la opción Corregir con Copilot para arreglar el código y ejecutarlo nuevamente.
 
 ## Objetivos del laboratorio
 
@@ -40,6 +38,8 @@ Será capaz de completar las siguientes tareas:
    git clone https://github.com/CloudLabsAI-Azure/ml-copilot-workshop.git
    ```
 
+   ![](../media/E10T1S2-0807.png)
+
 1. Cambie el directorio en la terminal ejecutando el siguiente comando:
 
    ```
@@ -54,7 +54,12 @@ Será capaz de completar las siguientes tareas:
 
 ### Tarea 2: Autocompletado de Código con Diferentes Experimentos
 
-   >**Nota**: Si la sugerencia no aparece o el resultado no se genera como se esperaba, presione Ctrl+I. Pegue los comentarios, revise las sugerencias y acéptelas.
+Estaremos ejecutando las celdas en un entorno de Python, por lo que primero necesitamos instalar una extensión de **Jupyter** en **VS Code**.
+
+   > **Nota:** En las tareas a continuación, utilizaremos comentarios para generar el código Python para ese comentario. Si la sugerencia no aparece por sí sola o si la salida no se genera como se esperaba, presiona Ctrl+I. Pega los comentarios, revisa las sugerencias y luego acéptalas.
+   
+   > **Nota:** En caso de que recibas fallos al ejecutar alguna celda, puedes seleccionar la parte del error en la celda y hacer clic en la opción **Fix using Copilot** para arreglar el código y ejecutarlo nuevamente.
+   >    ![](../media/cell-error.png)
 
 1. Para instalar **Jupyter**, se deben realizar los siguientes pasos dentro de Visual Studio Code:
     - Haga clic en el ícono **Extensiones (1)** en la barra de actividades presente en el lado izquierdo de la ventana de Visual Studio Code.
@@ -62,23 +67,23 @@ Será capaz de completar las siguientes tareas:
     - Seleccione **Jupyter (3)** de la lista de resultados que aparecen y verifique que **Jupyter** se haya instalado.
     - De lo contrario, haga clic en el botón **Instalar en Codespaces: ubiquitous space doodle(4)**.
 
-   ![](../media/c37.png)
+      ![](../media/c37.png)
 
 1. Haga clic en **Explorador (1)** y seleccione **Abrir Carpeta (2)** de la lista de opciones.
 
-      ![](../media/open-folder.png)
+      ![](../media/E10T2S2-0807.png)
 
 1. En el Explorador de archivos, seleccione la carpeta **ml-copilot-workshop** en la sección Quick Access.
 
-     ![](../media/select-folder.png)
+     ![](../media/E10T2S3-0807.png)
 
 1. En la ventana del explorador de VS Code, haga clic derecho en la carpeta **ml-copilot-workshop** y haga clic en **Nuevo archivo**. Asigne al archivo el nombre `Experiments.ipynb` y verifique que el nuevo archivo tenga el aspecto que se muestra a continuación:
 
-   ![](../media/new-file.png)
+   ![](../media/E10T2S4-0807.png)
 
 1. Haga clic en el archivo, seleccione **+ Code**.
 
-   ![](../media/c38.png)
+   ![](../media/E10T2S5-0807.png)
 
 1. Haga clic en **Seleccionar kernel** en la esquina superior derecha, seleccione **Entornos de Python** y luego elija Python **3.12**. 
 
