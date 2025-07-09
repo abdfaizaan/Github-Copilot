@@ -15,11 +15,11 @@ Será capaz de completar las siguientes tareas:
 
 1. Haz clic en **Archivo (1)** y luego haz clic en **Nueva Ventana (2)**.
 
-   ![](../media/190625(17).png)
+   ![](../media/new-window-0807.png)
 
 1. Haga clic en los **puntos suspensivos (1)** en la parte superior, haga clic en **Terminal (2)** y seleccione **New terminal (3)**.
 
-   ![](../media/190625(15).png)  
+   ![](../media/new-terminal-0807.png)  
 
 1. Ejecute el siguiente comando para clonar el repositorio **Mini-game-with-copilot**.
 
@@ -33,7 +33,7 @@ Será capaz de completar las siguientes tareas:
 
 1. Abra el archivo **app.py**.
 
-   ![](../media/vs19.png)
+   ![](../media/app1-0807.png)
 
 1. Pegue el siguiente comentario y haga clic en **Enter** y verifique que el próximo comentario sea generado por **GitHub Copilot**.
 
@@ -41,21 +41,23 @@ Será capaz de completar las siguientes tareas:
    # write 'hello world' to the console
    ```
 
-   ![](../media/vs14.png)
+   ![](../media/app2-0807.png)
    
       >**Nota:** En los casos en que el código no sea generado por **GitHub Copilot**, haga clic en **Extensiones**, busque GitHub Copilot, selecciónelo y haga clic en **Instalar en Codespaces: shiny acorn**.
-
-      ![](../media/vs13.png)
 
 1. Haga clic en **Guardar**.
    
 1. Haga clic en **Terminal (1)** y seleccione **Nuevo Terminal (2)**.
 
-   ![](../media/vs15.png)
+   ![](../media/new-terminal-0807.png)
 
-1. Ejecute la aplicación con el comando **python app.py** en la terminal y compruebe si el resultado es similar al siguiente mensaje de consola:
+1. Ejecuta la aplicación con el comando mencionado a continuación en la terminal y verifica si el resultado es similar al siguiente mensaje en la consola:
 
-   ![](../media/vs16.png)
+      ```
+      python app.py
+      ```
+
+   ![](../media/Ex11T1S10-0807.png)
 
 
 ### Tarea 2: Crear la lógica del juego
@@ -66,13 +68,17 @@ Será capaz de completar las siguientes tareas:
     The player can choose rock, paper, or scissors, and invalid inputs are handled gracefully. After each round, display whether the player won, lost, or tied. Allow the player to play again after each round and display their score at the end of the game. Inputs are converted to lowercase for consistency.
    ```
 
-   ![](../media/10-1.png)
+   ![](../media/Ex11T2S1-0807.png)
 
       >**Nota:** Sin embargo, es importante tener en cuenta que las sugerencias proporcionadas por GitHub Copilot pueden variar y, en ocasiones, pueden ser irrelevantes y requerir una comprensión clara del código de Python y su uso.
 
 1. Haga clic en **Guardar**.
 
-1. Ejecute la aplicación con el comando **python app.py** en la terminal.
+1. Ejecuta la aplicación con el comando mencionado a continuación en la terminal.
+
+      ```
+      python app.py
+      ```
 
    ![](../media/vs17.png)
 
